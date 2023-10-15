@@ -1,0 +1,12 @@
+{
+    "uC+j-6s5Mv1@^2V6n": {
+        "data": "hwQIAAwAAAAAAAAAAAAAAOAOZmZm5gAA7t2Z2Q3gAADe3ZnZDQAAAP7dAGBm5gAA0A0AAADgAADQAAAAAAAAAAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Hero"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
